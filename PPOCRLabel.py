@@ -2399,7 +2399,7 @@ class MainWindow(QMainWindow):
                 sort_labels=True,
                 show_text_field=True,
                 completion="startswith",
-                fit_to_content={"column": True, "row": False},
+                fit_to_content={"column": True, "row": True},
                 flags=None,
             )
 
